@@ -23,7 +23,7 @@ La estructura principal de la app se resume en los bloques de la imagen:
 
 ---
 
-## ✨ Pantallas
+## Pantallas
 
 ### **1. PantallaFormulario() → Entrada de datos**
 Esta pantalla recoge los datos que introduce el usuario:
